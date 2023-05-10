@@ -1,0 +1,11 @@
+C:\Users\HcBilisim\Desktop\Doviz_Uygulaması\bin\Debug\Doviz_Uygulaması.exe.config
+C:\Users\HcBilisim\Desktop\Doviz_Uygulaması\bin\Debug\Doviz_Uygulaması.exe
+C:\Users\HcBilisim\Desktop\Doviz_Uygulaması\bin\Debug\Doviz_Uygulaması.pdb
+C:\Users\HcBilisim\Desktop\Doviz_Uygulaması\obj\Debug\Doviz_Uygulaması.csproj.AssemblyReference.cache
+C:\Users\HcBilisim\Desktop\Doviz_Uygulaması\obj\Debug\Doviz_Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\HcBilisim\Desktop\Doviz_Uygulaması\obj\Debug\Doviz_Uygulaması.Form1.resources
+C:\Users\HcBilisim\Desktop\Doviz_Uygulaması\obj\Debug\Doviz_Uygulaması.Properties.Resources.resources
+C:\Users\HcBilisim\Desktop\Doviz_Uygulaması\obj\Debug\Doviz_Uygulaması.csproj.GenerateResource.cache
+C:\Users\HcBilisim\Desktop\Doviz_Uygulaması\obj\Debug\Doviz_Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\HcBilisim\Desktop\Doviz_Uygulaması\obj\Debug\Doviz_Uygulaması.exe
+C:\Users\HcBilisim\Desktop\Doviz_Uygulaması\obj\Debug\Doviz_Uygulaması.pdb

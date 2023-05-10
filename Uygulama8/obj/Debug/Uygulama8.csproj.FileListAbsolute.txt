@@ -1,0 +1,11 @@
+C:\Users\HcBilisim\Desktop\Uygulama8\bin\Debug\Uygulama8.exe.config
+C:\Users\HcBilisim\Desktop\Uygulama8\bin\Debug\Uygulama8.exe
+C:\Users\HcBilisim\Desktop\Uygulama8\bin\Debug\Uygulama8.pdb
+C:\Users\HcBilisim\Desktop\Uygulama8\obj\Debug\Uygulama8.csproj.AssemblyReference.cache
+C:\Users\HcBilisim\Desktop\Uygulama8\obj\Debug\Uygulama8.csproj.SuggestedBindingRedirects.cache
+C:\Users\HcBilisim\Desktop\Uygulama8\obj\Debug\Uygulama8.Form1.resources
+C:\Users\HcBilisim\Desktop\Uygulama8\obj\Debug\Uygulama8.Properties.Resources.resources
+C:\Users\HcBilisim\Desktop\Uygulama8\obj\Debug\Uygulama8.csproj.GenerateResource.cache
+C:\Users\HcBilisim\Desktop\Uygulama8\obj\Debug\Uygulama8.csproj.CoreCompileInputs.cache
+C:\Users\HcBilisim\Desktop\Uygulama8\obj\Debug\Uygulama8.exe
+C:\Users\HcBilisim\Desktop\Uygulama8\obj\Debug\Uygulama8.pdb

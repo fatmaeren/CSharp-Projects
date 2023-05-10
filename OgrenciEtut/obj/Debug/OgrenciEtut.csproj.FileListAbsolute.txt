@@ -1,0 +1,14 @@
+C:\Users\HcBilisim\Desktop\OgrenciEtut\bin\Debug\OgrenciEtut.exe.config
+C:\Users\HcBilisim\Desktop\OgrenciEtut\bin\Debug\OgrenciEtut.exe
+C:\Users\HcBilisim\Desktop\OgrenciEtut\bin\Debug\OgrenciEtut.pdb
+C:\Users\HcBilisim\Desktop\OgrenciEtut\obj\Debug\OgrenciEtut.csproj.AssemblyReference.cache
+C:\Users\HcBilisim\Desktop\OgrenciEtut\obj\Debug\OgrenciEtut.csproj.SuggestedBindingRedirects.cache
+C:\Users\HcBilisim\Desktop\OgrenciEtut\obj\Debug\OgrenciEtut.Form1.resources
+C:\Users\HcBilisim\Desktop\OgrenciEtut\obj\Debug\OgrenciEtut.Properties.Resources.resources
+C:\Users\HcBilisim\Desktop\OgrenciEtut\obj\Debug\OgrenciEtut.csproj.GenerateResource.cache
+C:\Users\HcBilisim\Desktop\OgrenciEtut\obj\Debug\OgrenciEtut.csproj.CoreCompileInputs.cache
+C:\Users\HcBilisim\Desktop\OgrenciEtut\obj\Debug\OgrenciEtut.exe
+C:\Users\HcBilisim\Desktop\OgrenciEtut\obj\Debug\OgrenciEtut.pdb
+C:\Users\HcBilisim\Desktop\OgrenciEtut\obj\Debug\OgrenciEtut.Form2.resources
+C:\Users\HcBilisim\Desktop\OgrenciEtut\obj\Debug\OgrenciEtut.Form3.resources
+C:\Users\HcBilisim\Desktop\OgrenciEtut\obj\Debug\OgrenciEtut.Form4.resources

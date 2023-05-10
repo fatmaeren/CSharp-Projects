@@ -1,0 +1,14 @@
+C:\Users\HcBilisim\Desktop\BAnka\bin\Debug\BAnka.exe.config
+C:\Users\HcBilisim\Desktop\BAnka\bin\Debug\BAnka.exe
+C:\Users\HcBilisim\Desktop\BAnka\bin\Debug\BAnka.pdb
+C:\Users\HcBilisim\Desktop\BAnka\obj\Debug\BAnka.csproj.AssemblyReference.cache
+C:\Users\HcBilisim\Desktop\BAnka\obj\Debug\BAnka.csproj.SuggestedBindingRedirects.cache
+C:\Users\HcBilisim\Desktop\BAnka\obj\Debug\BAnka.Form1.resources
+C:\Users\HcBilisim\Desktop\BAnka\obj\Debug\BAnka.Properties.Resources.resources
+C:\Users\HcBilisim\Desktop\BAnka\obj\Debug\BAnka.csproj.GenerateResource.cache
+C:\Users\HcBilisim\Desktop\BAnka\obj\Debug\BAnka.csproj.CoreCompileInputs.cache
+C:\Users\HcBilisim\Desktop\BAnka\obj\Debug\BAnka.exe
+C:\Users\HcBilisim\Desktop\BAnka\obj\Debug\BAnka.pdb
+C:\Users\HcBilisim\Desktop\BAnka\obj\Debug\BAnka.Form2.resources
+C:\Users\HcBilisim\Desktop\BAnka\obj\Debug\BAnka.Form3.resources
+C:\Users\HcBilisim\Desktop\BAnka\obj\Debug\BAnka.Form4.resources

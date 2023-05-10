@@ -1,0 +1,11 @@
+C:\Users\HcBilisim\Desktop\FilmArsivim\bin\Debug\FilmArsivim.exe.config
+C:\Users\HcBilisim\Desktop\FilmArsivim\bin\Debug\FilmArsivim.exe
+C:\Users\HcBilisim\Desktop\FilmArsivim\bin\Debug\FilmArsivim.pdb
+C:\Users\HcBilisim\Desktop\FilmArsivim\obj\Debug\FilmArsivim.csproj.AssemblyReference.cache
+C:\Users\HcBilisim\Desktop\FilmArsivim\obj\Debug\FilmArsivim.csproj.SuggestedBindingRedirects.cache
+C:\Users\HcBilisim\Desktop\FilmArsivim\obj\Debug\FilmArsivim.Form1.resources
+C:\Users\HcBilisim\Desktop\FilmArsivim\obj\Debug\FilmArsivim.Properties.Resources.resources
+C:\Users\HcBilisim\Desktop\FilmArsivim\obj\Debug\FilmArsivim.csproj.GenerateResource.cache
+C:\Users\HcBilisim\Desktop\FilmArsivim\obj\Debug\FilmArsivim.csproj.CoreCompileInputs.cache
+C:\Users\HcBilisim\Desktop\FilmArsivim\obj\Debug\FilmArsivim.exe
+C:\Users\HcBilisim\Desktop\FilmArsivim\obj\Debug\FilmArsivim.pdb

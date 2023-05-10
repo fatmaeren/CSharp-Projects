@@ -1,0 +1,11 @@
+C:\Users\HcBilisim\Desktop\Uygulama3\bin\Debug\Uygulama3.exe.config
+C:\Users\HcBilisim\Desktop\Uygulama3\bin\Debug\Uygulama3.exe
+C:\Users\HcBilisim\Desktop\Uygulama3\bin\Debug\Uygulama3.pdb
+C:\Users\HcBilisim\Desktop\Uygulama3\obj\Debug\Uygulama3.csproj.AssemblyReference.cache
+C:\Users\HcBilisim\Desktop\Uygulama3\obj\Debug\Uygulama3.csproj.SuggestedBindingRedirects.cache
+C:\Users\HcBilisim\Desktop\Uygulama3\obj\Debug\Uygulama3.Form1.resources
+C:\Users\HcBilisim\Desktop\Uygulama3\obj\Debug\Uygulama3.Properties.Resources.resources
+C:\Users\HcBilisim\Desktop\Uygulama3\obj\Debug\Uygulama3.csproj.GenerateResource.cache
+C:\Users\HcBilisim\Desktop\Uygulama3\obj\Debug\Uygulama3.csproj.CoreCompileInputs.cache
+C:\Users\HcBilisim\Desktop\Uygulama3\obj\Debug\Uygulama3.exe
+C:\Users\HcBilisim\Desktop\Uygulama3\obj\Debug\Uygulama3.pdb
